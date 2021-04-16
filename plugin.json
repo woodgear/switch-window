@@ -1,0 +1,23 @@
+{
+    "pluginName": "switch-window",
+    "description": "linux 快速切换窗口",
+    "preload": "preload.js",
+    "platform": [
+        "linux"
+    ],
+    "author": "wucong",
+    
+    "version": "0.0.1",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "sw",
+            "explain": "快速切换窗口",
+            "cmds": [
+                "sw",
+                "switch-window",
+                "快速切换窗口"
+            ]
+        }
+    ]
+}
